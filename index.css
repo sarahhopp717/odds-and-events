@@ -1,0 +1,23 @@
+div {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  padding: 2px;
+  margin: 2px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  resize: none;
+  border-radius: 10px;
+  max-height: 25px;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
